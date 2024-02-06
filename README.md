@@ -6,4 +6,5 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Github projects discovery of January 2024](https://emje.dev/blog/github-discovery-jan-2024)
 <!-- BLOG-POST-LIST:END -->
