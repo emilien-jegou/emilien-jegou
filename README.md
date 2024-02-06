@@ -1,4 +1,9 @@
-# Hi There👋, I'm Emilien
+# Hi there,
 
 - 🔭 I’m currently working on [an open source time tracker](https://github.com/emilien-jegou/time-tracker)
-- 📝 Checkout my blog on [emje.dev](https://emje.dev)
+- 📝 Checkout my [website!](https://emje.dev)
+
+### Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
