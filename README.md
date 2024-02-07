@@ -1,6 +1,6 @@
 # Hi there,
 
-- 🔭 I’m currently working on [an open source time tracker](https://github.com/emilien-jegou/time-tracker)
+- 🔭 I’m currently working on [an open source time tracker](https://github.com/emilien-jegou/o324)
 - 📝 Checkout my [website!](https://emje.dev)
 
 ### Blog posts
