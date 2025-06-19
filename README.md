@@ -6,6 +6,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How interfaces are used in typescript](https://emje.dev/blog/type-vs-interface)
 - [Building a gradient generator](https://emje.dev/blog/gradients-app)
 - [Github projects discovery of June 2024](https://emje.dev/blog/github-discovery-jun-2024)
 - [10 libraries to enhance your Typescript projects](https://emje.dev/blog/10-libraries-to-enhance-your-typescript-projects)
