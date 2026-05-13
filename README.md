@@ -2,7 +2,7 @@
 
 - 🔭 [an open source time tracker](https://github.com/emilien-jegou/o324)
 - 📝 Checkout my [website!](https://emje.dev)
-- ⌚ wip [qwik.js ui library based on moon.io](https://ui.onwo.cloud)
+- ⌚ wip [qwik.js ui library inspired by shadcn](https://ui.onwo.cloud)
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
