@@ -1,8 +1,10 @@
 # Hi there,
 
 - 🔭 [an open source time tracker](https://github.com/emilien-jegou/o324)
+- 🔭 [a jujutsu TUI](https://github.com/emilien-jegou/o324)
+- 🔭 [a release library for monorepos](https://github.com/emilien-jegou/relacher)
+- 🔭 [a ui library for qwik.js](https://github.com/emilien-jegou/relacher)
 - 📝 Checkout my [website!](https://emje.dev)
-- ⌚ wip [qwik.js ui library inspired by shadcn](https://ui.onwo.cloud)
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
