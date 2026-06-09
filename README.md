@@ -1,7 +1,7 @@
 # Hi there,
 
 - 🔭 [an open source time tracker](https://github.com/emilien-jegou/o324)
-- 🔭 [a jujutsu TUI](https://github.com/emilien-jegou/o324)
+- 🔭 [a jujutsu TUI](https://github.com/emilien-jegou/oyui)
 - 🔭 [a release library for monorepos](https://github.com/emilien-jegou/relacher)
 - 🔭 [a ui library for qwik.js](https://github.com/onwo-cloud/onwo-ui)
 - 📝 Checkout my [website!](https://emje.dev)
