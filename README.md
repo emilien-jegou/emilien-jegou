@@ -1,10 +1,9 @@
-# Hi there,
+- 🖥️ [A jujutsu TUI](https://github.com/emilien-jegou/oyui)
+- 📦 [A release library for monorepos](https://github.com/emilien-jegou/relacher)
+- 🖥️ [A ui library for qwik.js](https://github.com/onwo-cloud/onwo-ui)
+- ⏱️ [An open source time tracker](https://github.com/emilien-jegou/o324)
+- 🌐 Check my [website!](https://emje.dev)
 
-- 🔭 [an open source time tracker](https://github.com/emilien-jegou/o324)
-- 🔭 [a jujutsu TUI](https://github.com/emilien-jegou/oyui)
-- 🔭 [a release library for monorepos](https://github.com/emilien-jegou/relacher)
-- 🔭 [a ui library for qwik.js](https://github.com/onwo-cloud/onwo-ui)
-- 📝 Checkout my [website!](https://emje.dev)
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
