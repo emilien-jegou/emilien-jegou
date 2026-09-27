@@ -1,6 +1,7 @@
 - 🖥️ [A jujutsu TUI](https://github.com/emilien-jegou/oyui)
+- 🐋 [A TUI for Docker Log navigation](https://github.com/emilien-jegou/ocklog)
 - 📦 [A release library for monorepos](https://github.com/emilien-jegou/relacher)
-- 🖥️ [A ui library for qwik.js](https://github.com/onwo-cloud/onwo-ui)
+- 🚀 [A ui library for qwik.js](https://github.com/onwo-cloud/onwo-ui)
 - ⏱️ [An open source time tracker](https://github.com/emilien-jegou/o324)
 - 🌐 Check my [website!](https://emje.dev)
 
